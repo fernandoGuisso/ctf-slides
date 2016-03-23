@@ -5,4 +5,4 @@ gulp/
 gulpfile.js
 hora.txt
 src/
-.public
+.publish
