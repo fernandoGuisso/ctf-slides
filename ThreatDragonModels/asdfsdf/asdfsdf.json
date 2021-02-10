@@ -5,7 +5,11 @@
     "description": "asdfasdf"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "asdfasdf"
+      }
+    ],
     "diagrams": [
       {
         "title": "asdfsadfddddd",
